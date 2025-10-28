@@ -1,6 +1,6 @@
 🧠 Rebuilding GPT-2 from Scratch
 
-This project reconstructs the complete GPT-2 architecture from the ground up — including tokenization, embeddings, transformer layers, attention, and training — trained on The Verdict novel dataset. The goal was to deeply understand the internal mechanisms of large language models by manually re-implementing each component and extending it with controlled randomness and pretrained weight fine-tuning.
+This project reconstructs the complete GPT-2 architecture from the ground up including tokenization, embeddings, transformer layers, attention, and training trained on The Verdict novel dataset. The goal was to deeply understand the internal mechanisms of large language models by manually re-implementing each component and extending it with controlled randomness and pretrained weight fine-tuning.
 
 🚀 Features
 
